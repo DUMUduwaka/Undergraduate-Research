@@ -1,2 +1,4 @@
 # Undergraduate-Research
 DEVELOPMENT OF A SCHLIEREN IMAGING MODULE TO MEASURE DYNAMIC QUANTITIES IN TRANSPARENT FLUIDS 
+
+A Schlieren module was constructed using a concave mirror and Schlieren images were taken to visualize optical inhomogeneities in transparent media which form refractive index gradients. Schlieren technique was used to measure dynamic quantities in fluids. Hot air flows and heat convection fields were tested using a Schlieren module. Image processing techniques and Optical flow detecting techniques were applied to analyze Schlieren images to obtain vector fields. Furthermore, it was checked whether a tested flow is turbulent or laminar using velocity vector fields.
